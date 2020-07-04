@@ -1,0 +1,23 @@
+
+body {
+  background-color: #000000;
+  color: blue;
+  }
+p {
+  border: 5px solid red;
+}
+
+li {
+  font-size:1.5em;
+}
+
+nav.HorizontalNav ul li {
+  color: #9FF781;
+  background-color: 000000;
+  float: left;
+  width: 24.5%;
+  text-align: center;
+}
+img{
+  border: 5px solid #11FF00;
+}
